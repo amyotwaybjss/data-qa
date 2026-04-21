@@ -1,0 +1,5 @@
+offline/*
+*.xlsx
+.idea/*
+.venv/*
+__pycache__/
